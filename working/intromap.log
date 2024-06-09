@@ -1,0 +1,68 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: intromap-compile.map
+Output file: intromap.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          564 faces
+           85 brushes
+           31 entities
+            4 unique texnames
+          275 texinfo
+
+*** WARNING 00: No wad or _wad key exists in the worldmodel
+Processing hull 0...
+---- Brush_LoadEntity ----
+           85 brushes
+          304 planes
+---- CSGFaces ----
+          564 brushfaces
+          831 csgfaces
+          671 mergedfaces
+---- SolidBSP ----
+          928 split nodes
+          286 solid leafs
+          638 empty leafs
+            5 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1410 leaffaces
+         1284 nodefaces
+---- Portalize ----
+          643 vis leafs
+          643 vis clusters
+         2540 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-980 -628 28), no filling performed.
+Leak file written to intromap.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 10: Reached occupant at (310 461 246), no filling performed.
+Processing hull 2...
+*** WARNING 10: Reached occupant at (310 461 246), no filling performed.
+*** WARNING 16: Texture __TB_empty not found
+*** WARNING 16: Texture *04mwat1 not found
+*** WARNING 16: Texture altar1_6 not found
+*** WARNING 16: Texture 64_blue_1 not found
+---- WriteBSPFile ----
+Wrote intromap.bsp
+          851 planes            17020
+         1500 vertexes          18000
+          928 nodes             22272
+          240 texinfo            9600
+         1284 faces             25680
+         1668 clipnodes         13344
+          644 leafs             18032
+         1410 marksurfaces       2820
+         4972 surfedges         19888
+         3259 edges             13036
+            4 textures             20
+              lightdata             0
+              visdata               0
+              entdata            3034
+
+0.084 seconds elapsed
+Peak memory usage: 8575100 (8.2M)

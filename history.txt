@@ -1,0 +1,22 @@
+maps
+map tutorial1 
+maps
+map tutorial1 
+map
+gamma
+gamma 1
+gamma
+map model_trys 
+game
+game id1
+game
+mod
+game
+game ls
+game
+game .
+game model_test
+-game Model_test
+game model_test
+game
+game Model_test
