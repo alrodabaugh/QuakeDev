@@ -132,3 +132,13 @@
 "classname" "light"
 "origin" "344 -376 136"
 }
+// entity 13
+{
+"classname" "light"
+"origin" "-424 -168 8"
+}
+// entity 14
+{
+"classname" "light"
+"origin" "-344 -40 8"
+}

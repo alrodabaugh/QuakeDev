@@ -7,7 +7,7 @@ Output file: model_trys.bsp
 *** WARNING 06: No info_player_deathmatch entities in level
            42 faces
             7 brushes
-           13 entities
+           15 entities
             5 unique texnames
            27 texinfo
 
@@ -130,7 +130,7 @@ Wrote model_trys.bsp
             5 textures         141664
               lightdata             0
               visdata               0
-              entdata            1626
+              entdata            1719
 
-0.056 seconds elapsed
-Peak memory usage: 461464 (450.6k)
+0.055 seconds elapsed
+Peak memory usage: 461560 (450.7k)
